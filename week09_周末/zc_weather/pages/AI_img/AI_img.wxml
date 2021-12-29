@@ -1,0 +1,8 @@
+<!--pages/AI_img/AI_img.wxml-->
+<image src="/images/hongjiu_test.png"></image>
+<view>{{result_wine.classifyByColor}}</view>
+<view>{{result_wine.classifyBySugar}}</view>
+<view>{{result_wine.color}}</view>
+<view>{{result_wine.countryCn}}</view>
+<view>{{result_wine.countryEn}}</view>
+<view>{{result_wine.description}}</view>
